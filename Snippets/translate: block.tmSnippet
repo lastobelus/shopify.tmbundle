@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% assign value = '${1:blockname}'%}{% include 'translations'%}{% assign value = null%}</string>
+	<key>name</key>
+	<string>translate: block</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>trans</string>
+	<key>uuid</key>
+	<string>9E077018-6ADD-4BA9-A6BC-F7738FA27A1E</string>
+</dict>
+</plist>
