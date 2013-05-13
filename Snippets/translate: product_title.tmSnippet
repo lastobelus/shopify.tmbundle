@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% assign prod = "title" %}{% include 'translations' with prod %}{% assign prod = null %}</string>
+	<key>name</key>
+	<string>translate: product.title</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>transpt</string>
+	<key>uuid</key>
+	<string>EC9CBFFD-F81F-4BA6-BB57-A64F4F11264B</string>
+</dict>
+</plist>

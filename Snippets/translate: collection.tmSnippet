@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% assign c_handle = collection.handle %}$0{% assign c_handle = null %}</string>
+	<key>name</key>
+	<string>translate: collection</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>tabTrigger</key>
+	<string>transc</string>
+	<key>uuid</key>
+	<string>D06671AD-7222-4045-A5AD-ECF75737573C</string>
+</dict>
+</plist>
