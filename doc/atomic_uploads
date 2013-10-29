@@ -1,0 +1,4 @@
+grab current asset, store in tempfile
+get last uploaded version
+if no last uploaded version, get last committed version: git show HEAD:Test/test.rb
+
